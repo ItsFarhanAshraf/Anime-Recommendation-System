@@ -1,0 +1,23 @@
+Dragon Ball Z, 291, 9, Action
+Naruto, 220, 7, Adventure
+One Piece, 1000+, 20+, Action
+Bleach, 366, 16, Action
+Pokemon, 1000+, 20+, Adventure
+Sword Art Online, 96, 4, Sci-Fi
+My Hero Academia, 88, 5, Action
+Haikyuu!!, 64, 4, Comedy
+Fairy Tail, 275, 9, Adventure
+Gintama, 367, 10, Comedy
+Hunter x Hunter, 136, 6, Adventure
+JoJo's Bizarre Adventure, 152, 5, Action
+Sailor Moon, 200, 5, Magic
+Yu-Gi-Oh!, 224, 5, Adventure
+Digimon Adventure, 256, 7, Adventure
+One Punch Man, 24, 4, Comedy
+Blue Exorcist, 50, 2, Supernatural
+Black Clover, 170, 5, Fantasy
+Fate/stay night, 60, 4, Fantasy
+The Seven Deadly Sins, 100, 4, Fantasy
+Sword Art Online: Alternative, 24, 4, Sci-Fi
+Attack on Titan, 50, 4, Action
+Fullmetal Alchemist Brotherhood, 64, 1, Adventure
