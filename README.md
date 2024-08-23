@@ -23,3 +23,8 @@ Author
 
 ItsFarhanAshraf
 
+ Disclaimer: 
+    - "This program is a fan-made, unofficial project and is not affiliated with any anime studios or owners."
+    - "All anime names and data are used for non-commercial, educational, or entertainment purposes only."
+    - "The data in the files is for demonstration purposes only and may contain inaccuracies."
+
